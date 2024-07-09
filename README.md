@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshfrekin&label=Profile%20views&color=0e75b6&style=flat" alt="harshfrekin" /> </p>
 
-- 🌱 I’m currently learning **DSA and Firebase**
+- 🌱 I’m currently learning **DSA and Flutter**
 
 - 💬 Ask me about **flutter**
 
