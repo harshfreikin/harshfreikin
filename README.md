@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Tiwari</h1>
-<h3 align="center">As a dedicated and passionate professional, I have honed my skills in Flutter development and AWS (Solution Architect). With a strong foundation in mobile app development and cloud solutions, I bring a fresh perspective and innovative approach to problem-solving. My hands-on experience with Flutter enables me to build efficient and user-friendly applications, while my proficiency in AWS ensures robust and scalable solutions. Eager to contribute to a dynamic team, I am committed to leveraging my technical expertise to drive impactful projects and deliver exceptional results.</h3>
+
 
 - 🌱 I’m currently learning **AWS,DSA and Firebase**
 
